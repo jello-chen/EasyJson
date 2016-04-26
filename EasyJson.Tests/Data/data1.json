@@ -1,0 +1,12 @@
+﻿{
+  "name": "jello chen",
+  "blog": [ "jellochen.com", "www.cnblogs.com/jellochen" ],
+  "friends": [
+    "lily",
+    "jeffery",
+    {
+      "name": "david",
+      "sex": "male"
+    }
+  ]
+}
